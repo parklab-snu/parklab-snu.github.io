@@ -1,0 +1,107 @@
+baseURL: "https://parklab-snu.github.io" 
+title: Park Lab
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Research
+          url: research/
+          weight: 2
+        - name: People
+          url: people/
+          weight: 3
+        - name: Papers
+          url: papers/
+          weight: 4 
+        - name: News
+          url: news/
+          weight: 5
+        - name: Join us
+          url: join/
+          weight: 6
+        - name: Contact
+          url: contact/
+          weight: 7
+        
+
+params:
+    description: "Park Lab @ Seoul National University"
+    author: Sang Woo Park
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","data"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Park Lab
+          subtitle: "The Park Lab at Seoul National University works at the interface of  epidemiology and ecology. We utilize mathematical and statistical models to infer mechanisms driving the spread of infectious diseases and to predict future outbreaks. We also aim to link ecological theory with infectious disease dynamics to answer broader questions about population biology."
+          imageUrl: "picture.png"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Research
+              url: research/
+            - name: People
+              url: people/
+            - name: Papers
+              url: papers/
+            - name: News
+              url: news/
+            - name: Join us
+              url: join/
+            - name: Contact
+              url: contact/
+
+    socialIcons:
+        - name: Email
+          url: mailto:sangwoopark@snu.ac.kr
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=ZSCrs78AAAAJ&hl=en&oi=ao
+        - name: GitHub
+          url: https://github.com/parklab-snu
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Park Lab"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
