@@ -11,4 +11,4 @@ If you are interested in joining our lab as a graduate student, please send me y
 
 ## Undergraduate students
 
-If you are interested in joining our lab as an undergraduate intern, please send me your CV (if you have one), transcript, and a brief description of your research interests (either Korean or English).
+If you are interested in joining our lab as an undergraduate intern, please send me your CV, transcript, and a brief description of your research interests (either Korean or English).
