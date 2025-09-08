@@ -13,4 +13,4 @@ We highly encourage prospective graduate students to spend time in our lab first
 
 ## Undergraduate students
 
-If you are interested in joining our lab as an undergraduate intern, please send me (sangwoopark@snu.ac.kr) your CV, transcript, and a brief description of your research interests (either in Korean or English). You do not need an advanced background in mathematics or statisticsas most of the relevant skills can be learned in the lab. Nonetheless, some basic knowledge of mathematics (calculus and linear algebra), statistics (regression), and programming (R) will be helpful.
+If you are interested in joining our lab as an undergraduate intern, please send me (sangwoopark@snu.ac.kr) your CV, transcript, and a brief description of your research interests (either in Korean or English). You do not need an advanced background in mathematics or statistics as most of the relevant skills can be learned in the lab. Nonetheless, some basic knowledge in mathematics (calculus and linear algebra), statistics (regression), and programming (R) will be helpful.
