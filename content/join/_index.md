@@ -5,7 +5,7 @@ description: "Join us"
 
 # Join us
 
-The Park Lab is looking for students broadly interested in understanding biological processes—--particularly in the areas of epidemiology and ecology—--through the use of mathematical and statistical models. We welcome motivated students from diverse academic backgrounds who are curious, collaborative, and eager to learn.
+The Park Lab is looking for students broadly interested in understanding biological processes---particularly in the areas of epidemiology and ecology---through the use of mathematical and statistical models. We welcome motivated students from diverse academic backgrounds who are curious, collaborative, and eager to learn.
 
 ## Graduate students
 
