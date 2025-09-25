@@ -16,7 +16,7 @@ Howerton, E., Williams, T.C., Casalegno, J.-S., Dominguez, S., Gunson, R., Messa
 
 Charniga, K., **Park, S.W.**, Akhmetzhanov, A.R., Cori, A., Dushoff, J., Funk, S., Gostic, K.M., Linton, N.M., Lison, A., Overton, C.E., Pulliam, J.R.C., Ward, T., Cauchemez, S., and Abbott, S., 2024. [Best practices for estimating and reporting epidemiological delay distributions of infectious diseases using public health surveillance and healthcare data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012520). *PLoS Computational Biology*, 20 (10) e1012520.
 
-**Park, S.W.**, Lawal, T., Marin, M., Marlow, M.A., Grenfell, B.T., Masters, N.B., 2024. [Modeling the population-level impact of a third dose of MMR vaccine on a mumps outbreak at the University of Iowa](https://www.pnas.org/doi/10.1073/pnas.2403808121). *PNAS*, 121 (43) e2403808121. [**Press coverage by Nature**](https://www.nature.com/articles/d41586-024-03352-y).
+**Park, S.W.**, Lawal, T., Marin, M., Marlow, M.A., Grenfell, B.T., Masters, N.B., 2024. [Modeling the population-level impact of a third dose of MMR vaccine on a mumps outbreak at the University of Iowa](https://www.pnas.org/doi/10.1073/pnas.2403808121). *PNAS*, 121 (43) e2403808121. **Press coverage by [Nature](https://www.nature.com/articles/d41586-024-03352-y)**.
 
 **Park, S.W.**, Cobey, S., Metcalf, C.J.E., Levine, J.M., and Grenfell, B.T., 2024. [Predicting pathogen mutual invasibility and co-circulation](https://www.science.org/doi/abs/10.1126/science.adq0072). *Science*, 386(6718), 175-179.
 
