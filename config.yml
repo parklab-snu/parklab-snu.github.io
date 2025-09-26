@@ -29,13 +29,13 @@ menu:
           weight: 6
         - name: Ideas
           url: ideas/
-          weight: 6
+          weight: 7
         - name: Resources
           url: resources/
-          weight: 6
+          weight: 8
         - name: Contact
           url: contact/
-          weight: 7
+          weight: 9
         
 
 params:
