@@ -27,6 +27,12 @@ menu:
         - name: Join us
           url: join/
           weight: 6
+        - name: Ideas
+          url: ideas/
+          weight: 6
+        - name: Resources
+          url: resources/
+          weight: 6
         - name: Contact
           url: contact/
           weight: 7
@@ -73,6 +79,10 @@ params:
               url: news/
             - name: Join us
               url: join/
+            - name: Ideas
+              url: ideas/
+            - name: Resources
+              url: resources/
             - name: Contact
               url: contact/
 
