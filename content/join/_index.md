@@ -7,7 +7,7 @@ description: "Join us"
 
 The Park Lab is looking for students broadly interested in understanding biological processes---particularly in the areas of epidemiology and ecology---through the use of mathematical and statistical models. We welcome motivated students from diverse academic backgrounds who are curious, collaborative, and eager to learn.
 
-I expect every student to work on their own independent projects. Topics outlined in the [Research](https://parklab-snu.github.io/research/) tab are long-term goals, which can require advanced quantitative skills and longer-term time commitments. These questions are likely better suited for PhD students. Instead, I have written down some [ideas](https://parklab-snu.github.io/ideas) for shorter-term projects that undergraduate students or early graduate students can work on. I'm also happy to help students develop their own ideas that are not listed in either of those tabs.
+I encourage every student to work on their own independent project. Topics outlined in the [Research](https://parklab-snu.github.io/research/) tab are long-term goals, which can require advanced quantitative skills and longer-term time commitments. These questions are likely better suited for PhD students. Instead, I have written down some [ideas](https://parklab-snu.github.io/ideas) for shorter-term projects that undergraduate students or early graduate students can work on. I'm also happy to help students develop their own ideas that are not listed in either of those tabs.
 
 ## Graduate students
 
