@@ -12,8 +12,14 @@ Here are some resources for new students in the lab.
 1. Install [R Studio](https://posit.co/products/open-source/rstudio/?sid=1).
 2. Install [LaTeX](https://www.latex-project.org/get/). Note that all .tex documents can be compiled via R Studio.
 3. Make a [GitHub](https://github.com/) account & install [GitHub Desktop](https://desktop.github.com/download/).
-4. Join the [lab repo](https://github.com/parklab-snu).
-5. Join the lab Slack (under construction).
+4. Join the lab [repo](https://github.com/parklab-snu).
+5. Install [Slack](https://slack.com/intl/ko-kr/) and join the lab Slack.
+
+## R packages
+
+1. Install `deSolve` for solving ODEs
+2. Install `ggplot2` for generating figures
+3. Install `tidyr` and `dplyr` for data processing
 
 ## Tutorials
 

@@ -4,6 +4,8 @@
   <url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/ideas/</loc>
+  </url><url>
     <loc>http://localhost:1313/join/</loc>
   </url><url>
     <loc>http://localhost:1313/news/</loc>
@@ -15,6 +17,8 @@
     <loc>http://localhost:1313/people/</loc>
   </url><url>
     <loc>http://localhost:1313/research/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resources/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
