@@ -15,4 +15,4 @@ Assistant Professor, School of Biological Sciences, Seoul National University
 
 **Ju-Hyeong Song**\
 Undergraduate Student • rachmaninoff@snu.ac.kr \
-Department of Earth and Environmental Sciences & Physics, Seoul National University
+School of Earth and Environmental Sciences & Physics, Seoul National University
