@@ -17,7 +17,7 @@ Assistant Professor, School of Biological Sciences, Seoul National University
 Undergraduate Student • rachmaninoff@snu.ac.kr \
 School of Earth and Environmental Sciences & Department of Physics & Astronomy, Seoul National University
 
-<img src="hjl.jpg" alt="" width="200"/>
+<img src="hjl.JPG" alt="" width="200"/>
 
 **Hyun Ji Lee**\
 Undergraduate Student • prinbori@snu.ac.kr \
