@@ -22,3 +22,9 @@ School of Earth and Environmental Sciences & Department of Physics & Astronomy, 
 **Hyun Ji Lee**\
 Undergraduate Student • prinbori@snu.ac.kr \
 School of Biological Sciences, Seoul National University
+
+<img src="syc.JPG" alt="" width="200"/>
+
+**Si Young Choi**\
+Undergraduate Student • remy0502@snu.ac.kr \
+School of Biological Sciences, Seoul National University
