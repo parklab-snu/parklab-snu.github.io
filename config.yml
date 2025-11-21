@@ -33,9 +33,12 @@ menu:
         - name: Resources
           url: resources/
           weight: 8
+        - name: Photos
+          url: photos/
+          weight: 8
         - name: Contact
           url: contact/
-          weight: 9
+          weight: 10
         
 
 params:
@@ -64,7 +67,7 @@ params:
     profileMode:
           enabled: true
           title: Park Lab
-          subtitle: "The Park Lab at Seoul National University works at the interface of  epidemiology and ecology. We utilize mathematical and statistical models to infer mechanisms driving the spread of infectious diseases and to predict future outbreaks. We also aim to link ecological theory with infectious disease dynamics to answer broader questions about population biology."
+          subtitle: "The Park Lab at Seoul National University works at the interface of epidemiology and ecology. We utilize mathematical and statistical models to infer mechanisms driving the spread of infectious diseases and to predict future outbreaks. We also aim to link ecological theory with infectious disease dynamics to answer broader questions about population biology."
           imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
@@ -83,6 +86,8 @@ params:
               url: ideas/
             - name: Resources
               url: resources/
+            - name: Photos
+              url: photos/
             - name: Contact
               url: contact/
 

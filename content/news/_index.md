@@ -7,7 +7,7 @@ description: "News"
 
 ## 2025
 
-**2025.11.10** Welcome to Si Young Choi, a new undergraduate student in the lab! She'll be working on analyzing large spatiotemporal disease data sets.
+**2025.11.10** Welcome to Si Young Choi, a new undergraduate student in the lab! She'll be working on epidemic forecasting.
 
 **2025.10.16** Welcome to Hyun Ji Lee, a new undergraduate student in the lab! She'll be working on statistical modeling of spatiotemporal infectious disease dynamics.
 

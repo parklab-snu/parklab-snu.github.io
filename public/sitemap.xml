@@ -16,6 +16,8 @@
   </url><url>
     <loc>http://localhost:1313/people/</loc>
   </url><url>
+    <loc>http://localhost:1313/photos/</loc>
+  </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
     <loc>http://localhost:1313/resources/</loc>
