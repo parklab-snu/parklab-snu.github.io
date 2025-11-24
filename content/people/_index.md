@@ -28,3 +28,15 @@ School of Biological Sciences, Seoul National University
 **Si Young Choi**\
 Undergraduate Student • remy0502@snu.ac.kr \
 School of Biological Sciences, Seoul National University
+
+<img src="tyj.jpg" alt="" width="200"/>
+
+**Taeyang Jung**\
+Undergraduate Student • goldsun1200@naver.com \
+School of Biological Sciences, Seoul National University
+
+<img src="shj.jpg" alt="" width="200"/>
+
+**Sung Hyun Jang**\
+Undergraduate Student • shbio2020@snu.ac.kr \
+School of Biological Sciences, Seoul National University
