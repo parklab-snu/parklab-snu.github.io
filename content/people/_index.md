@@ -35,7 +35,7 @@ School of Biological Sciences, Seoul National University
 Undergraduate Student • goldsun1200@naver.com \
 School of Biological Sciences, Seoul National University
 
-<img src="shj.jpg" alt="" width="200"/>
+<img src="shj.JPG" alt="" width="200"/>
 
 **Sung Hyun Jang**\
 Undergraduate Student • shbio2020@snu.ac.kr \
