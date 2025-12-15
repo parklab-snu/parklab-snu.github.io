@@ -5,6 +5,10 @@ description: "Papers"
 
 # Papers
 
+## 2025
+
+**Park, S.W.**, Holmdahl, I., Howerton, E., Yang. W., Baker, R.E., Vecchi, G.A., Cobey, S., Metcalf, C.J.E., and Grenfell, B.T., 2025. [Interplay between climate and childhood mixing can explain a sudden shift in RSV seasonality in Japan](https://www.nature.com/articles/s41467-025-66184-y#Abs1). *Nature Communications* (2025). https://doi.org/10.1038/s41467-025-66184-y
+
 ## Pre-2025.9
 
 Nguyen-Tran, H.<sup>§</sup>, **Park, S.W.**<sup>§</sup>, Vogt, M.R.<sup>§</sup>, Permaul, P.<sup>§</sup>, Spaulding, A.B., Hernandez, M.L., Bohl, J.A., Godbole, S., Ruckwardt, T.J., Krug, P.W., Moss, D.L., Derrien-Colemyn, A., Chowdhury, A., Dziubla, G., Wang, L., Castro, M., Narpala, S.R., Longtine, E.R., Henry, A.R., Ngo, T.-T.B., Dzantiev, L., Sigal, G.B., Metcalf, C.J.E., Kimberlin, D.W., Dominguez, S.R., Mittelman, A., McDermott, A.B., Serebryannyy, L.A., Grenfell, B., Messacar, K., and Douek, D.C., 2025. [Dynamics of endemic virus re-emergence in children in the USA following the COVID-19 pandemic (2022–23): a prospective, multicentre, longitudinal, immunoepidemiological surveillance study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(25)00349-4/fulltext). *Lancet Infectious Diseases*.\
