@@ -9,9 +9,13 @@ The Park Lab is looking for students broadly interested in understanding biologi
 
 I encourage every student to work on their own independent project. Topics outlined in the [Research](https://parklab-snu.github.io/research/) tab are long-term goals, which can require advanced quantitative skills and longer-term time commitments. These questions are likely better suited for PhD students. Instead, I have written down some [ideas](https://parklab-snu.github.io/ideas) for shorter-term projects that undergraduate students or early graduate students can work on. I'm also happy to help students develop their own ideas that are not listed in either of those tabs.
 
+## Postdoctoral researcher
+
+We are currently looking for a postdoctoral researcher to work on developing semi-mechanistic models that combine mathematical modeling approaches with machine learning tools for characterizing spatiotemporal dynamics of infectious diseases. Please send me (sangwoopark@snu.ac.kr) your CV and research interests (1 page in either Korean or English).
+
 ## Graduate students
 
-We highly encourage prospective graduate students to spend time in our lab first as an intern. If you are interested in joining our lab, please send me (sangwoopark@snu.ac.kr) your CV, transcript, and your research interests (0.5 pages in English).
+If you are interested in joining our lab, please send me (sangwoopark@snu.ac.kr) your CV, transcript, and research interests (0.5 pages in either Korean or English).
 
 ## Undergraduate students
 
