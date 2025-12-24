@@ -11,7 +11,7 @@ email: sangwoopark@snu.ac.kr
 
 Department of Biological Sciences\
 College of Natural Science\
-Bldg 502, Room 306 (under construction)\
+Bldg 502, Room 306\
 Seoul National University\
 1 Gwanak-ro, Gwanak-gu, Seoul, Korea, 08826
 
@@ -19,7 +19,7 @@ Seoul National University\
 
 Department of Biological Sciences\
 College of Natural Science\
-Bldg 502, Room 331 (under construction)\
+Bldg 502, Room 331\
 Seoul National University\
 1 Gwanak-ro, Gwanak-gu, Seoul, Korea, 08826
 
