@@ -13,8 +13,8 @@ Assistant Professor, School of Biological Sciences, Seoul National University
 
 <img src="jhs.jpg" alt="" width="200"/>
 
-**Ju-Hyeong Song**\
-Undergraduate Student (on military service) • rachmaninoff@snu.ac.kr \
+**Ju-Hyeong Song (on military leave)**\
+Undergraduate Student • rachmaninoff@snu.ac.kr \
 School of Earth and Environmental Sciences & Department of Physics & Astronomy, Seoul National University
 
 <img src="hjl.JPG" alt="" width="200"/>
