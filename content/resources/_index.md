@@ -10,10 +10,9 @@ Here are some resources for new students in the lab.
 ## Software
 
 1. Install [R Studio](https://posit.co/products/open-source/rstudio/?sid=1).
-2. Install [LaTeX](https://www.latex-project.org/get/). Note that all .tex documents can be compiled via R Studio.
+2. Install [Slack](https://slack.com/intl/ko-kr/) and join the lab Slack.
 3. Make a [GitHub](https://github.com/) account & install [GitHub Desktop](https://desktop.github.com/download/).
 4. Join the lab [repo](https://github.com/parklab-snu).
-5. Install [Slack](https://slack.com/intl/ko-kr/) and join the lab Slack.
 
 ## R packages
 
