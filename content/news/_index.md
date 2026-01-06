@@ -5,6 +5,10 @@ description: "News"
 
 # News
 
+## 2026
+
+**2026.01.02** Sang Woo's paper on pathogen resilience is [published](https://www.pnas.org/doi/abs/10.1073/pnas.2517518122) in PNAS.
+
 ## 2025
 
 **2025.12.13** Sang Woo's paper on RSV transmission and climate is [published](https://www.nature.com/articles/s41467-025-66184-y) in Nature Communications.
