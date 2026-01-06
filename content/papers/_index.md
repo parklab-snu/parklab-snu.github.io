@@ -7,11 +7,11 @@ description: "Papers"
 
 ## 2026
 
-**Park, S.W.**, Nielsen, B.F., Howerton, E., Grenfell, B.T. and Cobey, S., 2026. [Susceptible host dynamics explain pathogen resilience to perturbations](https://www.pnas.org/doi/abs/10.1073/pnas.2517518122). *PNAS*, 123(1), p.e2517518122.
+**Park, S.W.**, Nielsen, B.F., Howerton, E., Grenfell, B.T. and Cobey, S., 2026. [Susceptible host dynamics explain pathogen resilience to perturbations](https://www.pnas.org/doi/abs/10.1073/pnas.2517518122). *PNAS*, 123(1), e2517518122.
 
 ## 2025
 
-Nielsen, B.F., **Park, S.W.**, Howerton, E., Lorentzen, O.F., Jensen, M.H., and Grenfell, B.T., 2025. [Complex multiannual cycles of Mycoplasma pneumoniae: persistence and the role of stochasticity.](https://www.pnas.org/doi/10.1073/pnas.2509184122). *PNAS*, 122 (52) e2509184122. 
+Nielsen, B.F., **Park, S.W.**, Howerton, E., Lorentzen, O.F., Jensen, M.H., and Grenfell, B.T., 2025. [Complex multiannual cycles of Mycoplasma pneumoniae: persistence and the role of stochasticity.](https://www.pnas.org/doi/10.1073/pnas.2509184122). *PNAS*, 122(52), e2509184122. 
 
 **Park, S.W.**, Holmdahl, I., Howerton, E., Yang. W., Baker, R.E., Vecchi, G.A., Cobey, S., Metcalf, C.J.E., and Grenfell, B.T., 2025. [Interplay between climate and childhood mixing can explain a sudden shift in RSV seasonality in Japan](https://www.nature.com/articles/s41467-025-66184-y#Abs1). *Nature Communications*. 16, 11385.
 
