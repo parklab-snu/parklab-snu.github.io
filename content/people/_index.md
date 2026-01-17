@@ -13,12 +13,6 @@ Assistant Professor, School of Biological Sciences, Seoul National University
 
 <img src="jhs.jpg" alt="" width="200"/>
 
-**Ju-Hyeong Song (on military leave)**\
-Undergraduate Student • rachmaninoff@snu.ac.kr \
-School of Earth and Environmental Sciences & Department of Physics & Astronomy, Seoul National University
-
-<img src="hjl.JPG" alt="" width="200"/>
-
 **Hyun Ji Lee**\
 Undergraduate Student • prinbori@snu.ac.kr \
 School of Biological Sciences, Seoul National University
@@ -40,3 +34,9 @@ School of Biological Sciences, Seoul National University
 **Sung Hyun Jang**\
 Undergraduate Student • shbio2020@snu.ac.kr \
 School of Biological Sciences, Seoul National University
+
+**Ju-Hyeong Song (on military leave)**\
+Undergraduate Student • rachmaninoff@snu.ac.kr \
+School of Earth and Environmental Sciences & Department of Physics & Astronomy, Seoul National University
+
+<img src="hjl.JPG" alt="" width="200"/>
