@@ -7,6 +7,8 @@ description: "News"
 
 ## 2026
 
+**2026.01.09** Welcome to Minji Kang, a new Master's student in the lab! Minji will be working on modeling pertussis transmission.
+
 **2026.01.02** Sang Woo's paper on pathogen resilience is [published](https://www.pnas.org/doi/abs/10.1073/pnas.2517518122) in PNAS.
 
 ## 2025
