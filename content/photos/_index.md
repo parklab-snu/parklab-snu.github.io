@@ -3,6 +3,12 @@ title: "Photos"
 description: "Photos"
 ---
 
+# 2026
+
+<img src="winter-2026.jpeg" alt="" width="500"/>
+
+**The end of winter semester & Welcome to Minji** 2026.02.23
+
 # 2025
 
 <img src="lab.jpeg" alt="" width="500"/>
