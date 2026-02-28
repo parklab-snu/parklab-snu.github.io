@@ -41,6 +41,12 @@ School of Biological Sciences, Seoul National University
 Undergraduate Student • shbio2020@snu.ac.kr \
 School of Biological Sciences, Seoul National University
 
+<img src="dhw.jpg" alt="" width="200"/>
+
+**Donghyun Won**\
+Undergraduate Student • dhwon07@snu.ac.kr \
+School of Biological Sciences, Seoul National University
+
 <img src="jhs.jpg" alt="" width="200"/>
 
 **Ju-Hyeong Song (on military leave)**\

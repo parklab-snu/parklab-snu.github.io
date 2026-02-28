@@ -7,6 +7,8 @@ description: "News"
 
 ## 2026
 
+**2026.02.23** Welcome to Donghyun Won, a new undergraduate student in the lab! Donghyun will be working on developing mathematical theory for epidemic invasion.
+
 **2026.01.09** Welcome to Minji Kang, a new Master's student in the lab! Minji will be working on modeling pertussis transmission.
 
 **2026.01.02** Sang Woo's paper on pathogen resilience is [published](https://www.pnas.org/doi/abs/10.1073/pnas.2517518122) in PNAS.
@@ -15,7 +17,7 @@ description: "News"
 
 **2025.12.13** Sang Woo's paper on RSV transmission and climate is [published](https://www.nature.com/articles/s41467-025-66184-y) in Nature Communications.
 
-**2025.11.24** Welcome to Sung Hyun Jang, a new undergraduate student in the lab! Sung Hyun will be working on understanding the cross immunity on epidemic dynamics.
+**2025.11.24** Welcome to Sung Hyun Jang, a new undergraduate student in the lab! Sung Hyun will be working on understanding the impact of cross immunity on epidemic dynamics.
 
 **2025.11.18** Welcome to Taeyang Jung, a new undergraduate student in the lab! Taeyang will be working on understanding the impact of immune waning on epidemic dynamics.
 
