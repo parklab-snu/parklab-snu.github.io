@@ -47,6 +47,18 @@ School of Biological Sciences, Seoul National University
 Undergraduate Student • dhwon07@snu.ac.kr \
 School of Biological Sciences, Seoul National University
 
+<img src="sjo.jpg" alt="" width="200"/>
+
+**Seungjin Oh**\
+Undergraduate Student • promotion521@snu.ac.kr \
+College of Veterinary Medicine, Seoul National University
+
+<img src="jsk.jpg" alt="" width="200"/>
+
+**Jaeseung Kim**\
+Undergraduate Student • ppiggy2013@snu.ac.kr \
+School of Biological Sciences, Seoul National University
+
 <img src="jhs.jpg" alt="" width="200"/>
 
 **Ju-Hyeong Song (on military leave)**\
