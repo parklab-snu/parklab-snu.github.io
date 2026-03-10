@@ -11,6 +11,8 @@ description: "News"
 
 **2026.03.03** Welcome to Seungjin Oh, a new undergraduate student in the lab! Seungjin will be working on understanding spatiotemporal dynamics of disease spread.
 
+**2026.03.03** Welcome to Yoonjeong Heo, a new postdoctoral researcher in the lab! Yoonjeong will be working on developing statistical methods for characterizing spatiotemporal disease spread.
+
 **2026.02.23** Welcome to Donghyun Won, a new undergraduate student in the lab! Donghyun will be working on developing mathematical theory for epidemic invasion.
 
 **2026.01.09** Welcome to Minji Kang, a new Master's student in the lab! Minji will be working on modeling pertussis transmission.

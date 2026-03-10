@@ -11,6 +11,12 @@ description: "People"
 Principal Investigator • [CV](cv-swp.pdf) • sangwoopark@snu.ac.kr \
 Assistant Professor, School of Biological Sciences, Seoul National University
 
+<img src="yjh.png" alt="" width="200"/>
+
+**Yoonjeong Heo**\
+Postdoctoral researcher • oliviann94@snu.ac.kr \
+Institute for Data Innovation in Science, Seoul National University
+
 <img src="mjk.jpg" alt="" width="200"/>
 
 **Minji Kang**\
