@@ -5,6 +5,10 @@ description: "Photos"
 
 # 2026
 
+<img src="spring-2026.jpeg" alt="" width="500"/>
+
+**Welcome to new members in the lab!** 2026.03.18
+
 <img src="winter-2026.jpeg" alt="" width="500"/>
 
 **The end of winter semester & Welcome to Minji** 2026.02.23
