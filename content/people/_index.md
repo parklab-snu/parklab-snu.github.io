@@ -7,19 +7,25 @@ description: "People"
 
 <img src="swp.jpg" alt="" width="200"/>
 
-**Sang Woo Park**\
+**Sang Woo Park, PhD**\
 Principal Investigator • [CV](cv-swp.pdf) • sangwoopark@snu.ac.kr \
 Assistant Professor, School of Biological Sciences, Seoul National University
 
 <img src="yjh.png" alt="" width="200"/>
 
-**Yoonjeong Heo**\
+**Yoonjeong Heo, PhD**\
 Postdoctoral researcher • oliviann94@snu.ac.kr \
 Institute for Data Innovation in Science, Seoul National University
 
+<img src="hrl.jpg" alt="" width="200"/>
+
+**Ha-Ryeong Lee, MSc**\
+Research Associate • oliviann94@snu.ac.kr \
+School of Biological Sciences, Seoul National University
+
 <img src="mjk.jpg" alt="" width="200"/>
 
-**Minji Kang**\
+**Minji Kang, BSc**\
 Master’s Student • iminji@snu.ac.kr \
 School of Biological Sciences, Seoul National University
 

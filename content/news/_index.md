@@ -7,6 +7,8 @@ description: "News"
 
 ## 2026
 
+**2026.03.25** Welcome to Ha-Ryeong Lee, a new research associate in the lab! Ha-Ryeong will be working on modeling species coexistence.
+
 **2026.03.09** Welcome to Jaeseung Kim, a new undergraduate student in the lab! Jaeseung will be working on modeling collective behavior.
 
 **2026.03.03** Welcome to Seungjin Oh, a new undergraduate student in the lab! Seungjin will be working on understanding spatiotemporal dynamics of disease spread.
