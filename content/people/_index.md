@@ -20,7 +20,7 @@ Institute for Data Innovation in Science, Seoul National University
 <img src="hrl.jpg" alt="" width="200"/>
 
 **Ha-Ryeong Lee, MSc**\
-Research Associate • oliviann94@snu.ac.kr \
+Research Associate • letitsnow@snu.ac.kr \
 School of Biological Sciences, Seoul National University
 
 <img src="mjk.jpg" alt="" width="200"/>
