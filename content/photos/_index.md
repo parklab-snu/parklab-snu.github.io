@@ -5,6 +5,10 @@ description: "Photos"
 
 # 2026
 
+<img src="spring-2026-2.PNG" alt="" width="500"/>
+
+**Spring 2026** 2026.04.03
+
 <img src="spring-2026.jpeg" alt="" width="500"/>
 
 **Welcome to new members in the lab!** 2026.03.18
