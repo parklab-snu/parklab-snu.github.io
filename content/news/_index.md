@@ -7,6 +7,10 @@ description: "News"
 
 ## 2026
 
+**2026.05.11** Congratulations to Hyun Ji Lee, Si Young Choi, and Taeyang Jung on receiving support from the Undergraduate Independent Research Program!
+
+**2026.03.12** Congratulations to Donghyun Won on receiving the LX fellowship!
+
 **2026.03.25** Welcome to Ha-Ryeong Lee, a new research associate in the lab! Ha-Ryeong will be working on modeling species coexistence.
 
 **2026.03.09** Welcome to Jaeseung Kim, a new undergraduate student in the lab! Jaeseung will be working on modeling collective behavior.
