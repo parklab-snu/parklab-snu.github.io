@@ -17,6 +17,12 @@ Assistant Professor, School of Biological Sciences, Seoul National University
 Postdoctoral researcher • oliviann94@snu.ac.kr \
 Institute for Data Innovation in Science, Seoul National University
 
+<img src="sbl.png" alt="" width="200"/>
+
+**Sangbo Lee, PhD**\
+Visiting Postdoctoral researcher • sangbo14@yuhs.ac \
+Department of Pediatrics, College of medicine, Yonsei University
+
 <img src="hrl.jpg" alt="" width="200"/>
 
 **Ha-Ryeong Lee, MSc**\
