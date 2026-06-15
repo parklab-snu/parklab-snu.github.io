@@ -7,8 +7,8 @@ description: "Photos"
 
 <div style="display: flex; gap: 16px; align-items: flex-start;">
 
-<img src="poster-spring-2026.jpg" alt="" width="500"/>
-<img src="poster-spring-2026-2.jpg" alt="" width="500"/>
+<img src="poster-spring-2026.jpg" alt="" style="height: 360px; width: auto;"/>
+  <img src="poster-spring-2026-2.jpg" alt="" style="height: 360px; width: auto;"/>
 
 </div>
 
