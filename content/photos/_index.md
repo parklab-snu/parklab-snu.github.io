@@ -5,6 +5,15 @@ description: "Photos"
 
 # 2026
 
+<div style="display: flex; gap: 16px; align-items: flex-start;">
+
+<img src="poster-spring-2026.jpg" alt="" width="500"/>
+<img src="poster-spring-2026-2.jpg" alt="" width="500"/>
+
+</div>
+
+**Undergraduate thesis posters** 2026.06.10
+
 <img src="spring-2026-2.PNG" alt="" width="500"/>
 
 **Spring 2026** 2026.04.03
