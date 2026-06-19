@@ -7,6 +7,8 @@ description: "News"
 
 ## 2026
 
+**2026.06.15** Welcome to Young Woo Kim, a new undergraduate student in the lab! Young Woo will be working on statistical physics of ecological communities.
+
 **2026.06.10** Congratulations to Sung Hyun Jang and Si Young Choi for presenting their undergraduate thesis posters! Special congratulations to Si Young Choi for receiving the Best Poster Award!
 
 **2026.05.11** Congratulations to Hyun Ji Lee, Si Young Choi, and Taeyang Jung on receiving support from the Undergraduate Independent Research Program!

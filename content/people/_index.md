@@ -77,6 +77,12 @@ College of Veterinary Medicine, Seoul National University
 Undergraduate Student • ppiggy2013@snu.ac.kr \
 School of Biological Sciences, Seoul National University
 
+<img src="ywk.jpg" alt="" width="200"/>
+
+**Young Woo Kim**\
+Undergraduate Student • erickim0520@snu.ac.kr \
+School of Biological Sciences, Seoul National University
+
 <img src="jhs.jpg" alt="" width="200"/>
 
 **Ju-Hyeong Song (on military leave)**\
