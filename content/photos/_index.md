@@ -5,6 +5,10 @@ description: "Photos"
 
 # 2026
 
+<img src="math-2026.PNG" alt="" width="500"/>
+
+**International Conference for the 80th Anniversary of the Korean Mathematical Society** 2026.06.22
+
 <div style="display: flex; gap: 16px; align-items: flex-start;">
 
 <img src="poster-spring-2026.jpg" alt="" style="height: 375px; width: auto;"/>

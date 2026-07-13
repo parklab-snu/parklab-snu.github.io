@@ -83,6 +83,12 @@ School of Biological Sciences, Seoul National University
 Undergraduate Student • erickim0520@snu.ac.kr \
 School of Biological Sciences, Seoul National University
 
+<img src="jhk.jpg" alt="" width="200"/>
+
+**Jun Hwan Kim**\
+Undergraduate Student • junhaun20056@naver.com \
+Department of Mathematics, Konkuk University
+
 <img src="jhs.jpg" alt="" width="200"/>
 
 **Ju-Hyeong Song (on military leave)**\
