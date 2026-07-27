@@ -67,12 +67,6 @@ School of Biological Sciences, Seoul National University
 
 <img src="sjo.jpg" alt="" width="200"/>
 
-**Seungjin Oh**\
-Undergraduate Student • promotion521 [at] snu.ac.kr \
-College of Veterinary Medicine, Seoul National University
-
-<img src="jsk.jpg" alt="" width="200"/>
-
 **Jaeseung Kim**\
 Undergraduate Student • ppiggy2013 [at] snu.ac.kr \
 School of Biological Sciences, Seoul National University
@@ -94,3 +88,9 @@ Department of Mathematics, Konkuk University
 **Ju-Hyeong Song (on military leave)**\
 Undergraduate Student • rachmaninoff [at] snu.ac.kr \
 School of Earth and Environmental Sciences & Department of Physics & Astronomy, Seoul National University
+
+**Seungjin Oh (on military leave)**\
+Undergraduate Student • promotion521 [at] snu.ac.kr \
+College of Veterinary Medicine, Seoul National University
+
+<img src="jsk.jpg" alt="" width="200"/>
