@@ -26,7 +26,7 @@ Department of Pediatrics, College of medicine, Yonsei University
 <img src="hrl.jpg" alt="" width="200"/>
 
 **Ha-Ryeong Lee, MSc**\
-Research Associate • letitsnow [at] snu.ac.kr \
+Research Associate • har.lee [at] snu.ac.kr \
 School of Biological Sciences, Seoul National University
 
 <img src="mjk.jpg" alt="" width="200"/>
