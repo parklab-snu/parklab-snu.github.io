@@ -39,8 +39,10 @@ menu:
         - name: Contact
           url: contact/
           weight: 10
+        - name: Handbook
+          url: handbook/
+          weight: 11
         
-
 params:
     description: "Park Lab @ Seoul National University"
     author: Sang Woo Park
@@ -90,6 +92,8 @@ params:
               url: photos/
             - name: Contact
               url: contact/
+            - name: Handbook
+              url: handbook/
 
     socialIcons:
         - name: Email
