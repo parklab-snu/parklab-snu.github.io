@@ -5,9 +5,9 @@ description: "Handbook"
 
 # Handbook
 
-## Core rules
-
 The purpose of this handbook is to create a respectful, collaborative, and productive research environment for current and prospective members.
+
+## Core rules
 
 1. **Be respectful to members of our lab, other labs, and the public.** Scientific research is a collaborative process, and meaningful collaboration is impossible without mutual respect. Disrespectful behavior toward others will not be tolerated.
 
