@@ -77,12 +77,6 @@ School of Biological Sciences, Seoul National University
 Undergraduate Student • erickim0520 [at] snu.ac.kr \
 School of Biological Sciences, Seoul National University
 
-<img src="jhk.jpg" alt="" width="200"/>
-
-**Jun Hwan Kim**\
-Undergraduate Student • junhaun20056 [at] naver.com \
-Department of Mathematics, Konkuk University
-
 <img src="jhs.jpg" alt="" width="200"/>
 
 **Ju-Hyeong Song (on military leave)**\
@@ -94,3 +88,7 @@ School of Earth and Environmental Sciences & Department of Physics & Astronomy, 
 **Seungjin Oh (on military leave)**\
 Undergraduate Student • promotion521 [at] snu.ac.kr \
 College of Veterinary Medicine, Seoul National University
+
+# Former members
+
+Jun Hwan Kim, undergraduate student (2026 summer intern)

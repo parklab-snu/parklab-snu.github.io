@@ -7,6 +7,8 @@ description: "News"
 
 ## 2026
 
+**2026.08.18** Jun Hwan Kim completed his summer intership.
+
 **2026.06.29** Welcome to Jun Hwan Kim, a new undergraduate student in the lab! Jun Hwan will be working on modeling disease tolerance.
 
 **2026.06.15** Welcome to Young Woo Kim, a new undergraduate student in the lab! Young Woo will be working on statistical physics of ecological communities.
