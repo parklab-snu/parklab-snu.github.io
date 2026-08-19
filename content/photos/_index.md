@@ -5,6 +5,10 @@ description: "Photos"
 
 # 2026
 
+<img src="kyoto-2026.jpg" alt="" width="500"/>
+
+**Infectious Disease Modelling Summer Bootcamp, Kyoto** 2026.08.09
+
 <img src="math-2026.PNG" alt="" width="500"/>
 
 **International Conference for the 80th Anniversary of the Korean Mathematical Society** 2026.06.22
