@@ -7,7 +7,15 @@ description: "News"
 
 ## 2026
 
-**2026.08.18** Jun Hwan Kim completed his summer intership.
+**2026.09.01** Welcome to Ji Seon Kim, a new postdoctoral researcher in the lab! Ji Seon will be working on developing theoretical and experimental approaches to understanding microbial ecology.
+
+**2026.09.01** Welcome to Gaeun Kim, a new undergraduate student in the lab! Gaeun will be working on understanding pathogen evolution.
+
+**2026.09.01** Ha-Ryeong Lee begins her PhD in the lab!
+
+**2026.08.31** Sung Hyun Jang and Jaeseung Kim completed their internship.
+
+**2026.08.18** Jun Hwan Kim completed his summer internship.
 
 **2026.06.29** Welcome to Jun Hwan Kim, a new undergraduate student in the lab! Jun Hwan will be working on modeling disease tolerance.
 

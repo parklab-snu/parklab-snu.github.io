@@ -17,6 +17,12 @@ Assistant Professor, School of Biological Sciences, Seoul National University
 Postdoctoral researcher • oliviann94 [at] snu.ac.kr \
 Institute for Data Innovation in Science, Seoul National University
 
+<img src="jsk2.jpg" alt="" width="200"/>
+
+**Ji Seon Kim, PhD**\
+Postdoctoral researcher • jisun01144 [at] gmail.com \
+School of Biological Sciences, Seoul National University
+
 <img src="sbl.png" alt="" width="200"/>
 
 **Sangbo Lee, MD, PhD**\
@@ -26,7 +32,7 @@ Department of Pediatrics, College of medicine, Yonsei University
 <img src="hrl.jpg" alt="" width="200"/>
 
 **Ha-Ryeong Lee, MSc**\
-Research Associate • har.lee [at] snu.ac.kr \
+PhD Student • har.lee [at] snu.ac.kr \
 School of Biological Sciences, Seoul National University
 
 <img src="mjk.jpg" alt="" width="200"/>
@@ -53,28 +59,22 @@ School of Biological Sciences, Seoul National University
 Undergraduate Student • goldsun1200 [at] naver.com \
 School of Biological Sciences, Seoul National University
 
-<img src="shj.JPG" alt="" width="200"/>
-
-**Sung Hyun Jang**\
-Undergraduate Student • shbio2020 [at] snu.ac.kr \
-School of Biological Sciences, Seoul National University
-
 <img src="dhw.jpg" alt="" width="200"/>
 
 **Donghyun Won**\
 Undergraduate Student • dhwon07 [at] snu.ac.kr \
 School of Biological Sciences, Seoul National University
 
-<img src="jsk.jpg" alt="" width="200"/>
-
-**Jaeseung Kim**\
-Undergraduate Student • ppiggy2013 [at] snu.ac.kr \
-School of Biological Sciences, Seoul National University
-
 <img src="ywk.jpg" alt="" width="200"/>
 
 **Young Woo Kim**\
 Undergraduate Student • erickim0520 [at] snu.ac.kr \
+School of Biological Sciences, Seoul National University
+
+<img src="gek.jpeg" alt="" width="200"/>
+
+**Gaeun Kim**\
+Undergraduate Student • kimge05 [at] snu.ac.kr \
 School of Biological Sciences, Seoul National University
 
 <img src="jhs.jpg" alt="" width="200"/>
@@ -91,4 +91,8 @@ College of Veterinary Medicine, Seoul National University
 
 # Former members
 
-Jun Hwan Kim, undergraduate student (2026 summer intern)
+Sung Hyun Jang, undergraduate student (2025 winter--2026 summer)
+
+Jaeseung Kim, undergraduate student (2026 spring--2026 summer)
+
+Jun Hwan Kim, undergraduate student (2026 summer)
