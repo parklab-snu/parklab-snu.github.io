@@ -91,8 +91,6 @@ College of Veterinary Medicine, Seoul National University
 
 # Former members
 
-Sung Hyun Jang, undergraduate student (2025 winter--2026 summer)
-
-Jaeseung Kim, undergraduate student (2026 spring--2026 summer)
-
+Sung Hyun Jang, undergraduate student (2025 winter--2026 summer)\
+Jaeseung Kim, undergraduate student (2026 spring--2026 summer)\
 Jun Hwan Kim, undergraduate student (2026 summer)
