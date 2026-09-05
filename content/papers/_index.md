@@ -7,6 +7,8 @@ description: "Papers"
 
 ## Preprints
 
+Pillai A.N., **Park S.W.**, Lipsitch M., Cowling B.J., Cobey S., 2026. [Heterogeneity in pre-vaccination population immunity can contribute to variability in vaccine effectiveness estimates](https://www.medrxiv.org/content/10.64898/2026.08.29.26361716v1). medRxiv.
+
 **Park, S.W.**, 2026. [Strategic coexistence theory for evolutionary games](https://www.biorxiv.org/content/10.64898/2026.06.24.734261.abstract). bioRxiv.
 
 **Park, S.W.**, Levine, J. and Grenfell, B., 2026. [Unifying coexistence theory for ecological communities and pathogen strain competition](https://www.biorxiv.org/content/10.64898/2026.05.27.728210v1.abstract). bioRxiv.
