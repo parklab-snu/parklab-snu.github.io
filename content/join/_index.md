@@ -11,7 +11,7 @@ I encourage every student to work on their own independent project. Topics outli
 
 ## Graduate students
 
-If you are interested in joining our lab, please send me (sangwoopark@snu.ac.kr) your CV, transcript, and research interests (1 page in either Korean or English).
+If you are interested in joining our lab, please send me (sangwoopark@snu.ac.kr) your CV, transcript, and research interests (2 page in English). Intermediate-level knowledge of mathematics (calculus and linear algebra), statistics (regression), and programming (R) will be helpful.
 
 ## Undergraduate students
 
