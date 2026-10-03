@@ -88,9 +88,3 @@ School of Earth and Environmental Sciences & Department of Physics & Astronomy, 
 **Seungjin Oh (on military leave)**\
 Undergraduate Student • promotion521 [at] snu.ac.kr \
 College of Veterinary Medicine, Seoul National University
-
-# Former members
-
-Sung Hyun Jang, undergraduate student (2025 winter--2026 summer)\
-Jaeseung Kim, undergraduate student (2026 spring--2026 summer)\
-Jun Hwan Kim, undergraduate student (2026 summer)

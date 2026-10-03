@@ -21,27 +21,24 @@ menu:
         - name: Papers
           url: papers/
           weight: 4 
-        - name: News
-          url: news/
-          weight: 5
         - name: Join us
           url: join/
-          weight: 6
+          weight: 5
         - name: Ideas
           url: ideas/
-          weight: 7
+          weight: 6
         - name: Resources
           url: resources/
-          weight: 8
+          weight: 7
         - name: Photos
           url: photos/
           weight: 8
         - name: Contact
           url: contact/
-          weight: 10
+          weight: 9
         - name: Handbook
           url: handbook/
-          weight: 11
+          weight: 10
         
 params:
     description: "Park Lab @ Seoul National University"
@@ -80,8 +77,6 @@ params:
               url: people/
             - name: Papers
               url: papers/
-            - name: News
-              url: news/
             - name: Join us
               url: join/
             - name: Ideas
