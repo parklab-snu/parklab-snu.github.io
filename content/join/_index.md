@@ -9,7 +9,7 @@ The Park Lab is looking for students broadly interested in understanding biologi
 
 ## Graduate students
 
-If you are interested in joining our lab, please send me (sangwoopark@snu.ac.kr) your CV, transcript, and research interests (2 pages in English). Intermediate-level knowledge of mathematics (calculus and linear algebra), statistics (regression), and programming (R) will be helpful.
+If you are interested in joining our lab, please send me (sangwoopark@snu.ac.kr) your CV, transcript, and research interests (1 pages in English). Intermediate-level knowledge of mathematics (calculus and linear algebra), statistics (regression), and programming (R) will be helpful.
 
 ## Undergraduate students
 
