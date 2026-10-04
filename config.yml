@@ -24,18 +24,15 @@ menu:
         - name: Join us
           url: join/
           weight: 5
-        - name: Ideas
-          url: ideas/
+        - name: Contact
+          url: contact/
           weight: 6
         - name: Resources
           url: resources/
           weight: 7
-        - name: Contact
-          url: contact/
-          weight: 8
         - name: Handbook
           url: handbook/
-          weight: 9
+          weight: 8
         
 params:
     description: "Park Lab @ Seoul National University"
@@ -76,12 +73,10 @@ params:
               url: papers/
             - name: Join us
               url: join/
-            - name: Ideas
-              url: ideas/
-            - name: Resources
-              url: resources/
             - name: Contact
               url: contact/
+            - name: Resources
+              url: resources/
             - name: Handbook
               url: handbook/
 
