@@ -30,15 +30,12 @@ menu:
         - name: Resources
           url: resources/
           weight: 7
-        - name: Photos
-          url: photos/
-          weight: 8
         - name: Contact
           url: contact/
-          weight: 9
+          weight: 8
         - name: Handbook
           url: handbook/
-          weight: 10
+          weight: 9
         
 params:
     description: "Park Lab @ Seoul National University"
@@ -83,8 +80,6 @@ params:
               url: ideas/
             - name: Resources
               url: resources/
-            - name: Photos
-              url: photos/
             - name: Contact
               url: contact/
             - name: Handbook

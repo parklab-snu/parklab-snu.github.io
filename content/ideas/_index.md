@@ -5,7 +5,7 @@ description: "Ideas"
 
 # Ideas
 
-Here are some project ideas that undergraduate students and junior graduate students might consider. I have fairly specific plans for most of these projects, and I'm happy to discuss them further in detail if you find any of these topics interesting.
+Here are some project ideas that undergraduate students and junior graduate students might consider. I'm happy to discuss them further in detail if you find any of these topics interesting.
 
 ## Epidemic analysis
 
@@ -17,7 +17,7 @@ Here are some project ideas that undergraduate students and junior graduate stud
 - Theoretical explorations of relationship between climate, behavior, and disease.
 - Understanding the impact of immune waning of epidemic dynamics.
 - Understanding the impact of COVID-19 interventions on epidemic dynamics. See the following work on [pathogen resilience](https://www.biorxiv.org/content/10.1101/2025.06.13.659551v2.abstract).
-- Understanding the impact of stochasticity on epidemic dynamics and persistence. This project can take either theoretical or statistical approaches. See the following work on [pathogen resilience](https://www.biorxiv.org/content/10.1101/2025.06.13.659551v2.abstract).
+- Understanding the impact of stochasticity on epidemic dynamics and persistence. See the following work on [pathogen resilience](https://www.biorxiv.org/content/10.1101/2025.06.13.659551v2.abstract).
 
 ## Methods development
 
