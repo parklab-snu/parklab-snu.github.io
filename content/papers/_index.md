@@ -7,6 +7,10 @@ description: "Papers"
 
 ## Preprints
 
+**Kim, J.** and **Park, S.W.**, 2026. [Predicting the long-term impact of AI assistants on collective intelligence](https://www.biorxiv.org/content/10.64898/2026.09.29.755292v1.abstract). bioRxiv.
+
+Jamieson, N., **Park, S.W.**, Ainslie, K., Xu, J., Funk, S., Ward, T., Overton, C.E., Meyers, L.A. and Abbott, S., 2026. [A within-host-informed event-time framework linking epidemiological delay distributions](https://www.medrxiv.org/content/10.64898/2026.09.21.26363521v1). medRxiv.
+
 Pillai A.N., **Park S.W.**, Lipsitch M., Cowling B.J., Cobey S., 2026. [Heterogeneity in pre-vaccination population immunity can contribute to variability in vaccine effectiveness estimates](https://www.medrxiv.org/content/10.64898/2026.08.29.26361716v1). medRxiv.
 
 **Park, S.W.**, 2026. [Strategic coexistence theory for evolutionary games](https://www.biorxiv.org/content/10.64898/2026.06.24.734261.abstract). bioRxiv.
