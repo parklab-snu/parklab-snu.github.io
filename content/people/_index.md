@@ -88,3 +88,12 @@ School of Earth and Environmental Sciences & Department of Physics & Astronomy, 
 **Seungjin Oh (on military leave)**\
 Undergraduate Student • promotion521 [at] snu.ac.kr \
 College of Veterinary Medicine, Seoul National University
+
+
+# Former members
+
+## Undergraduate students
+
+* Jaeseung Kim (thesis, 2026) investigated the impact of AI use on [collective intelligence](https://www.biorxiv.org/content/10.64898/2026.09.29.755292v1.abstract) (Kim and Park, 2026, bioRxiv).
+* Sung Hyun Jang, (thesis, 2026) studied how pathogen interactions shape responses to pandemic perturbations.
+* Jun Hwan Kim (intern, 2026) explored the impact of behavioral changes on epidemic dynamics.

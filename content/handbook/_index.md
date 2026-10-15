@@ -13,7 +13,7 @@ The purpose of this handbook is to create a respectful, collaborative, and produ
 
 2. **Be present and engaged.** I strongly believe that creativity benefits from flexibility in working hours and environment. At the same time, being physically present in the lab is important for spontaneous discussion, collaboration, and building a healthy research environment. Core lab members, including graduate students and postdocs, are expected to spend at least three days a week, for most of the workday, in the lab. Undergraduate students may have different arrangements depending on their schedules and research commitments. Reasonable exceptions can be made for classes, travel, health, or other circumstances.
 
-3. **Respect the shared workspace.** The lab is meant to provide an efficient and comfortable place to do high-quality research. Please keep the main room reasonably quiet. Brief research discussions are of course welcome, but longer conversations, phone calls, or meetings should take place outside the main room whenever possible.
+3. **Respect the shared workspace.** The lab is meant to provide an efficient and comfortable place to do high-quality research. Please keep the main room reasonably quiet. Research discussions are of course welcome, but longer conversations, phone calls, or meetings should take place outside the main room whenever possible.
 
 4. **Communicate clearly and in advance.** Planned vacations, travel, extended absences, or major changes in your schedule should be communicated in advance whenever possible. Unexpected circumstances happen, but timely communication helps everyone plan and work effectively.
 

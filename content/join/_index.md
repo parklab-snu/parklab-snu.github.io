@@ -5,7 +5,9 @@ description: "Join us"
 
 # Join us
 
-The Park Lab is looking for students broadly interested in understanding biological processes---particularly in the areas of epidemiology and ecology---through the use of mathematical and statistical models. We welcome motivated students from diverse academic backgrounds who are curious, collaborative, and eager to learn.
+The Park Lab is looking for students interested in using mathematical and statistical models to understand biological processes, particularly in epidemiology and ecology. We welcome motivated students from diverse academic backgrounds who are curious, collaborative, and eager to learn.
+
+I encourage all students, including undergraduate interns, to pursue their own independent projects. Explore our [Research](https://parklab-snu.github.io/research/) and [Papers](https://parklab-snu.github.io/papers/) pages to learn more about the topics we study. These are only a starting point. I am also happy to help students develop their own research ideas beyond the topics listed there.
 
 ## Graduate students
 
