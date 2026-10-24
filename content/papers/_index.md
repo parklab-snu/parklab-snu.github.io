@@ -17,13 +17,13 @@ Pillai A.N., **Park S.W.**, Lipsitch M., Cowling B.J., Cobey S., 2026. [Heteroge
 
 **Park, S.W.**, Levine, J. and Grenfell, B., 2026. [Unifying coexistence theory for ecological communities and pathogen strain competition](https://www.biorxiv.org/content/10.64898/2026.05.27.728210v1.abstract). bioRxiv.
 
-Benhamou, W., Howerton, E., **Park, S.W.**, Viboud, C., Metcalf, C.J.E. and Grenfell, B.T., 2026. [Leveraging perturbations to infer the population dynamics of human rhinovirus and interaction of influenza A virus](https://www.medrxiv.org/content/10.64898/2026.03.23.26348908v1). In Press.
-
-**Park, S.W.**, 2026. [Delayed introduction and susceptible variation explain spatial asynchrony during the large pertussis outbreak in Korea](https://www.medrxiv.org/content/10.1101/2025.11.21.25340758v4). In Press.
-
 Shin, C.Y., **Park, S.W.**, Viboud, C., Sabeti, P.C., Fraser, C. and Sun, K., 2025. [Transmission Waiting Time: A Unifying Metric for Outbreak Controllability](https://www.medrxiv.org/content/10.1101/2025.10.18.25338292v3). medRxiv.
 
 ## 2026
+
+**Park, S.W.**, 2026. [Delayed introduction, transmission variation and susceptible dynamics explain spatial asynchrony during Republic of Korea's large pertussis outbreak](https://royalsocietypublishing.org/rsif/article/23/243/20260205/483784/Delayed-introduction-transmission-variation-and?searchresult=1). *Journal of The Royal Society Interface*, 23(243), 20260205.
+
+Benhamou, W., Howerton, E., **Park, S.W.**, Viboud, C., Metcalf, C.J.E. and Grenfell, B.T., 2026. [Leveraging perturbations to infer the population dynamics of human rhinovirus and interaction of influenza A virus](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014784). *PLoS Computational Biology*, 22(9), e1014784.
 
 **Park, S.W.**, Nielsen, B.F., Howerton, E., Grenfell, B.T. and Cobey, S., 2026. [Susceptible host dynamics explain pathogen resilience to perturbations](https://www.pnas.org/doi/abs/10.1073/pnas.2517518122). *PNAS*, 123(1), e2517518122.
 
