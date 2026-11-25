@@ -7,7 +7,7 @@ description: "News"
 
 ## 2026
 
-**2026.11** Sang Woo receives support from the SNU Grand Quest Initiative!
+**2026.11** Sang Woo receives funding from the SNU Grand Quest Initiative for the project entitled “Can an independent minority prevent collective errors in majority decisions arising from shared AI use?”.
 
 **2026.10** Sang Woo's paper on pertussis outbreak is [published](https://royalsocietypublishing.org/rsif/article/23/243/20260205/483784/Delayed-introduction-transmission-variation-and) in JRSI.
 
@@ -15,7 +15,7 @@ description: "News"
 
 **2026.05** Congratulations to Hyun Ji Lee, Si Young Choi, and Taeyang Jung on receiving support from the Undergraduate Independent Research Program!
 
-**2026.03** Sang Woo receives support from the National Research Foundation of Korea (Young Scientist Grants)!
+**2026.03** Sang Woo receives funding from the National Research Foundation of Korea (Young Scientist Grants) for the project entitled "Modeling Microbial Pathogen Coexistence under Climate Change".
 
 **2026.03** Congratulations to Donghyun Won on receiving the LX fellowship!
 
@@ -25,6 +25,6 @@ description: "News"
 
 **2025.12** Sang Woo's paper on RSV transmission and climate is [published](https://www.nature.com/articles/s41467-025-66184-y) in Nature Communications.
 
-**2026.11** Sang Woo joins Seoul National University’s G-LAMP program as a faculty member!
+**2026.11** Sang Woo receives funding from Seoul National University’s G-LAMP program!
 
 **2025.09** The Park Lab launched at Seoul National University.
