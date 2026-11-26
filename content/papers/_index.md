@@ -13,13 +13,13 @@ Jamieson, N., **Park, S.W.**, Ainslie, K., Xu, J., Funk, S., Ward, T., Overton, 
 
 Pillai A.N., **Park S.W.**, Lipsitch M., Cowling B.J., Cobey S., 2026. [Heterogeneity in pre-vaccination population immunity can contribute to variability in vaccine effectiveness estimates](https://www.medrxiv.org/content/10.64898/2026.08.29.26361716v1). medRxiv.
 
-**Park, S.W.**, 2026. [Strategic coexistence theory for evolutionary games](https://www.biorxiv.org/content/10.64898/2026.06.24.734261.abstract). bioRxiv.
-
 **Park, S.W.**, Levine, J. and Grenfell, B., 2026. [Unifying coexistence theory for ecological communities and pathogen strain competition](https://www.biorxiv.org/content/10.64898/2026.05.27.728210v1.abstract). bioRxiv.
 
 Shin, C.Y., **Park, S.W.**, Viboud, C., Sabeti, P.C., Fraser, C. and Sun, K., 2025. [Transmission Waiting Time: A Unifying Metric for Outbreak Controllability](https://www.medrxiv.org/content/10.1101/2025.10.18.25338292v3). medRxiv.
 
 ## 2026
+
+**Park, S.W.**, 2026. [Strategic coexistence theory for evolutionary games](https://www.pnas.org/doi/10.1073/pnas.2623502123).  *PNAS*, 123(48) e2623502123.
 
 **Park, S.W.**, 2026. [Delayed introduction, transmission variation and susceptible dynamics explain spatial asynchrony during Republic of Korea's large pertussis outbreak](https://royalsocietypublishing.org/rsif/article/23/243/20260205/483784/Delayed-introduction-transmission-variation-and?searchresult=1). *Journal of The Royal Society Interface*, 23(243), 20260205.
 
